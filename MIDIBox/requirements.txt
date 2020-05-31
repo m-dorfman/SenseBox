@@ -1,0 +1,4 @@
+bidict=0.18.2
+RPi.GPIO
+MFRC522
+mido
