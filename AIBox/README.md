@@ -5,12 +5,12 @@
 
 ---
 
-## Requirements:
-### Magenta should be installed to run. Use the development instructions, https://github.com/tensorflow/magenta, found on their page or use the utility that's in this folder: ``` ./magentamake.sh -i ```
-### if running the above utility then no need tto clone but otherwise the project should be cloned: ``` git clone https://github.com/tensorflow/magenta.git ```
-### models also need to be obtained, the melody recurrent network was used which can be downloaded from the following page: https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn; these should be loaded into this directory
+### Requirements:
+- Magenta should be installed to run. Use the development instructions, https://github.com/tensorflow/magenta, found on their page or use the utility that's in this folder: ``` ./magentamake.sh -i ```
+- if running the above utility then no need tto clone but otherwise the project should be cloned: ``` git clone https://github.com/tensorflow/magenta.git ```
+- models also need to be obtained, the melody recurrent network was used which can be downloaded from the following page: https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn; these should be loaded into this directory
 
 ---
 
-## Using:
-### To run ``` ./aiplay.py ``` and begin by scanning rfid tags.
+### Using:
+- To run ``` ./aiplay.py ``` and begin by scanning rfid tags.
